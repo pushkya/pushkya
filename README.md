@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**pushkya/pushkya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32 > </h1>
 <p align='center'>
 </p>
