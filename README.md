@@ -9,7 +9,10 @@
 
    <a href="https://www.linkedin.com/in/pushkardeshpande2304/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>    
+  </a> 
+    <a href="https://medium.com/@pushkardeshpande_97735" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)">
+  </a>
    <a href="deshpush25@gmail.com" target="_blank">
     <img alt="GitHubIO" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
@@ -22,6 +25,7 @@
 - I am working as a Graduate Research Assistant in IU
 - :desktop_computer: Currently I’m looking for Full time Data Science Opportunities
 - I also like clicking photos and swimming asa part of hobby
+- Check out my portfolio here : https://pushkya.github.io/myportfolio/
 - 📧 Email: deshpush25@gmail.com
 
 
